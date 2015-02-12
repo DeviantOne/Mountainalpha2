@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.agameoftwohalves.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>A Game of Two Halves</name>
+<widget id="tk.mountainmarket.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Mountain View Alpha</name>
     <description>
-        Latest from the Last Word on Football
+        View, Connect, do business. From classifieds to business listings for the winelands
     </description>
     <author email="knowles.chris.d@gmail.com" href="http://www.agameoftwohalves.com">
         AGOTH Webmaster
     </author>
 
-    <preference name="phonegap-version" value="3.3.0" />
+    <preference name="phonegap-version" value="3.6.3" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <gap:plugin name="org.apache.cordova.device" />
